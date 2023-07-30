@@ -1,14 +1,14 @@
 # Pop Package Updates
 
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
 This is a repository for drafting the weekly **Pop Package Updates** posts for
 [Pop!_OS Lemmy Community](https://lemmy.world/c/pop_os).
 
 ## License
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
-
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+This work is licensed under a [Creative Commons Attribution 4.0 International
+License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
