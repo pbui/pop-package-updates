@@ -5,11 +5,15 @@ for the week starting **{{ DATE }}**.
 
 One sentence/paragraph summary of the big changes.
 
-## Package Updates
+## {{ DATE }}
 
-### [{{PR}}. {{DATE}}](https://github.com/pop-os/repo-release/pull/{{PR}})
+### Pop!_OS ([PR]())
 
 - **package-name**: description
+
+### Ubuntu
+
+- **package-name**: description ([Ubuntu]())
 
 ## Notes
 
